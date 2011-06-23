@@ -1,0 +1,161 @@
+// !$*UTF8*$!
+{
+	1D3623240D0F684500981E51 /* TabBarControllerDemoAppDelegate.h */ = {
+		uiCtxt = {
+			sepNavIntBoundsRect = "{{0, 0}, {946, 472}}";
+			sepNavSelRange = "{0, 0}";
+			sepNavVisRange = "{0, 442}";
+		};
+	};
+	1D3623250D0F684500981E51 /* TabBarControllerDemoAppDelegate.m */ = {
+		uiCtxt = {
+			sepNavIntBoundsRect = "{{0, 0}, {946, 1694}}";
+			sepNavSelRange = "{1411, 0}";
+			sepNavVisRange = "{451, 1345}";
+		};
+	};
+	1D6058900D05DD3D006BFB54 /* TabBarControllerDemo */ = {
+		activeExec = 0;
+		executables = (
+			74B202F613B3636A00440750 /* TabBarControllerDemo */,
+		);
+	};
+	29B97313FDCFA39411CA2CEA /* Project object */ = {
+		activeBuildConfigurationName = Debug;
+		activeExecutable = 74B202F613B3636A00440750 /* TabBarControllerDemo */;
+		activeTarget = 1D6058900D05DD3D006BFB54 /* TabBarControllerDemo */;
+		addToTargets = (
+			1D6058900D05DD3D006BFB54 /* TabBarControllerDemo */,
+		);
+		codeSenseManager = 74B202FC13B3638900440750 /* Code sense */;
+		executables = (
+			74B202F613B3636A00440750 /* TabBarControllerDemo */,
+		);
+		perUserDictionary = {
+			PBXPerProjectTemplateStateSaveDate = 330523498;
+			PBXWorkspaceStateSaveDate = 330523498;
+		};
+		sourceControlManager = 74B202FB13B3638900440750 /* Source Control */;
+		userBuildSettings = {
+		};
+	};
+	74B202F613B3636A00440750 /* TabBarControllerDemo */ = {
+		isa = PBXExecutable;
+		activeArgIndices = (
+		);
+		argumentStrings = (
+		);
+		autoAttachOnCrash = 1;
+		breakpointsEnabled = 0;
+		configStateDict = {
+		};
+		customDataFormattersEnabled = 1;
+		dataTipCustomDataFormattersEnabled = 1;
+		dataTipShowTypeColumn = 1;
+		dataTipSortType = 0;
+		debuggerPlugin = GDBDebugging;
+		disassemblyDisplayState = 0;
+		dylibVariantSuffix = "";
+		enableDebugStr = 1;
+		environmentEntries = (
+		);
+		executableSystemSymbolLevel = 0;
+		executableUserSymbolLevel = 0;
+		libgmallocEnabled = 0;
+		name = TabBarControllerDemo;
+		showTypeColumn = 0;
+		sourceDirectories = (
+		);
+	};
+	74B202FB13B3638900440750 /* Source Control */ = {
+		isa = PBXSourceControlManager;
+		fallbackIsa = XCSourceControlManager;
+		isSCMEnabled = 0;
+		scmConfiguration = {
+			repositoryNamesForRoots = {
+				"" = "";
+			};
+		};
+	};
+	74B202FC13B3638900440750 /* Code sense */ = {
+		isa = PBXCodeSenseManager;
+		indexTemplatePath = "";
+	};
+	74B2030113B363A900440750 /* SOTabBarController.m */ = {
+		uiCtxt = {
+			sepNavIntBoundsRect = "{{0, 0}, {946, 3122}}";
+			sepNavSelRange = "{517, 55}";
+			sepNavVisRange = "{575, 1094}";
+		};
+	};
+	74B2030313B363A900440750 /* SOTabBar.h */ = {
+		uiCtxt = {
+			sepNavIntBoundsRect = "{{0, 0}, {946, 546}}";
+			sepNavSelRange = "{0, 0}";
+			sepNavVisRange = "{0, 612}";
+		};
+	};
+	74B2030413B363A900440750 /* SOTabBar.m */ = {
+		uiCtxt = {
+			sepNavIntBoundsRect = "{{0, 0}, {1090, 5838}}";
+			sepNavSelRange = "{13322, 0}";
+			sepNavVisRange = "{12656, 1290}";
+		};
+	};
+	74B2030E13B3647600440750 /* SOViewController.h */ = {
+		uiCtxt = {
+			sepNavIntBoundsRect = "{{0, 0}, {946, 472}}";
+			sepNavSelRange = "{504, 0}";
+			sepNavVisRange = "{0, 510}";
+		};
+	};
+	74B2030F13B3647600440750 /* SOViewController.m */ = {
+		uiCtxt = {
+			sepNavIntBoundsRect = "{{0, 0}, {946, 560}}";
+			sepNavSelRange = "{617, 0}";
+			sepNavVisRange = "{140, 652}";
+		};
+	};
+	74B2031513B3650600440750 /* TestViewController1.h */ = {
+		uiCtxt = {
+			sepNavIntBoundsRect = "{{0, 0}, {946, 472}}";
+			sepNavSelRange = "{268, 0}";
+			sepNavVisRange = "{0, 279}";
+		};
+	};
+	74B2031613B3650600440750 /* TestViewController1.m */ = {
+		uiCtxt = {
+			sepNavIntBoundsRect = "{{0, 0}, {1139, 742}}";
+			sepNavSelRange = "{233, 0}";
+			sepNavVisRange = "{0, 959}";
+		};
+	};
+	74B2031A13B3651100440750 /* TestViewController2.h */ = {
+		uiCtxt = {
+			sepNavIntBoundsRect = "{{0, 0}, {946, 472}}";
+			sepNavSelRange = "{268, 0}";
+			sepNavVisRange = "{0, 279}";
+		};
+	};
+	74B2031F13B3651A00440750 /* TestViewController3.h */ = {
+		uiCtxt = {
+			sepNavIntBoundsRect = "{{0, 0}, {946, 472}}";
+			sepNavSelRange = "{268, 0}";
+			sepNavVisRange = "{0, 279}";
+		};
+	};
+	74B2032413B3652300440750 /* TestViewController4.h */ = {
+		uiCtxt = {
+			sepNavIntBoundsRect = "{{0, 0}, {946, 472}}";
+			sepNavSelRange = "{268, 0}";
+			sepNavVisRange = "{0, 279}";
+		};
+	};
+	74B2032913B3652D00440750 /* TestViewController5.h */ = {
+		uiCtxt = {
+			sepNavIntBoundsRect = "{{0, 0}, {946, 472}}";
+			sepNavSelRange = "{268, 0}";
+			sepNavVisRange = "{0, 279}";
+		};
+	};
+}
